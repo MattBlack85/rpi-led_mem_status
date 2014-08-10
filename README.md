@@ -13,3 +13,7 @@ There are 5 leds on the board:
 * 3 leds ON: memory in use is between 40% and 60%
 * 2 leds ON: memory in use is between 20% and 40%
 * 1 led ON: memory is use <20%
+
+Schema
+----------------
+![schema](https://github.com/MattBlack85/rpi-led_mem_status/blob/master/led_memory_bb.png)
